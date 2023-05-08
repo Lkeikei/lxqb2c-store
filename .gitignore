@@ -1,0 +1,13 @@
+# Project exclude paths
+/store-admin/target/
+/store-commons/target/
+/store-front-carousel/target/
+/store-front-cart/target/
+/store-front-category/target/
+/store-front-collect/target/
+/store-front-order/target/
+/store-front-product/target/
+/store-front-user/target/
+/store-gateway/target/
+/store-search/target/
+/store-static/target/

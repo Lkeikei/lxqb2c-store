@@ -1,0 +1,17 @@
+package com.lxq.param;
+
+import lombok.Data;
+
+import javax.validation.constraints.NotNull;
+
+/**
+ * @Author: 娄须强
+ * @CreateTime: 2023-04-30  14:52
+ */
+
+@Data
+public class AddressRemoveParam {
+
+    @NotNull
+    private Integer id;
+}

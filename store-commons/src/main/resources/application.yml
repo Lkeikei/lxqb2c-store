@@ -1,0 +1,3 @@
+spring:
+  profiles:
+    active: mq  # 激活配置
